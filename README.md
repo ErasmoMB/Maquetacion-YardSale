@@ -20,7 +20,7 @@ En este proyecto se utilizaron las siguientes tecnologías:
 ## Instalación
 
 1. Clona el repositorio:
-2. Abre el archivo `index.html` en tu navegador web.
+2. Abre cada archivo html en tu navegador web para poder visualizar la maquetacion.
 
 ## Autor
 
